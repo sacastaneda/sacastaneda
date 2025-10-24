@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Samuel Castañeda  
 
-<!--
-**sacastaneda/sacastaneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Ingeniería de Sistemas** en la **Universidad Nacional de Colombia**.  
+💻 Apasionado por el desarrollo de software y la resolución de problemas mediante la tecnología.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Conocimientos y habilidades
+- 🌐 **Desarrollo web:** HTML, CSS, JavaScript  
+- ☕ **Programación:** Java, Python  
+- 🧩 **Intereses:** ingeniería de software, algoritmos, y desarrollo backend  
+
+---
+
+### 🌍 Sobre mí
+📍 Resido en **Bogotá, Colombia**  
+📧 **Correo:** [sacastaneda@unal.edu.co](mailto:sacastaneda@unal.edu.co)  
+
+---
+
+### ⚡ Datos adicionales
+- Me gusta aprender nuevas tecnologías y aplicar buenas prácticas de programación.  
+- Interesado en proyectos colaborativos y de aprendizaje continuo.  
+
+---
+
+### 🚀 “El código no solo resuelve problemas, también crea posibilidades.”
+
