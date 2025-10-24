@@ -24,5 +24,4 @@
 
 ---
 
-### 🚀 “El código no solo resuelve problemas, también crea posibilidades.”
 
