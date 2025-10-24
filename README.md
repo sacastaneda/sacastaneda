@@ -24,4 +24,9 @@
 
 ---
 
+### 💡 Idiomas 
+Ingles B2 (Intermedio)
 
+
+### 💡 Proyecto actual
+**[Conedus](https://github.com/10scar/scatola)**  
